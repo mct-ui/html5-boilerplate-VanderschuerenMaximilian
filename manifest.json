@@ -1,0 +1,11 @@
+{
+  "name": "Maximilian Vanderschueren",
+  "short_name": "Maxi",
+  "icons": [{
+    "src": "google-touch-icon.png",
+    "sizes": "512x512"
+  }],
+  "theme_color": "#44c8f5",
+  "background_color": "#FFF",
+  "display": "standalone"
+}
